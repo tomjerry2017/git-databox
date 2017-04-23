@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 this is on dev branch
 this is being edited on dev branch after being checked out
 this is being edited now after being reset from staging area to modified area unstage 
 now it can be added and commited and merged to master branch
-=======
 
-this is on dev branch
->>>>>>> cde17ef532bd2601a267090929514efb589efcd9
