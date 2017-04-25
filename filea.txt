@@ -3,3 +3,4 @@ this is being edited on dev branch after being checked out
 this is being edited now after being reset from staging area to modified area unstage 
 now it can be added and commited and merged to master branch
 editting from dev on 24th at5:56
+editting filea so we can ammend the commit
