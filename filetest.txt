@@ -4,3 +4,7 @@ function sub(int a,int b){
 return a - b;
 }
 
+working on new branch branch1
+function add(int a,int b){
+  return a + b;
+  }
