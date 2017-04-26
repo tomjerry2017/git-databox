@@ -8,3 +8,13 @@ working on new branch branch1
 function add(int a,int b){
   return a + b;
   }
+
+function add1(int a,int b){
+  return a + b;
+  }
+function add2(int a,int b){
+  return a + b;
+  }
+function add4(int a,int b){
+  return a + b;
+  }
