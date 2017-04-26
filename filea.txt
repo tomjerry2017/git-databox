@@ -4,3 +4,8 @@ this is being edited now after being reset from staging area to modified area un
 now it can be added and commited and merged to master branch
 editting from dev on 24th at5:56
 editting filea so we can ammend the commit
+
+now on branch1 
+function multiply(int a,int b){
+return a * b;
+}
