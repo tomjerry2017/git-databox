@@ -1,2 +1,3 @@
 this is a test for poll scm on jenkins for git freestyle project
 thank you
+this is being editted to test the post built trigger on jenkins myproj1 to trigger git_project
