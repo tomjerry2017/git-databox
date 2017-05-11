@@ -1,0 +1,2 @@
+this is a test for poll scm on jenkins for git freestyle project
+thank you
